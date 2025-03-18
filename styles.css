@@ -1,0 +1,29 @@
+* {
+    background-color:  rgb(232, 80, 80);
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 45px;
+    color: rgb(239, 173, 4);
+}
+
+h2, h3 {
+    color: rgb(214, 176, 80);
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+.recipes-list {
+    text-align: left;
+    list-style: none;
+    font-size: 18px;
+}
+
+a {
+    color: rgb(59, 41, 6);
+}
